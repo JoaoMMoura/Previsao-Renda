@@ -4,5 +4,5 @@ Projeto desenvolvido utilizado pandas, com o objetivo de criar uma árvore de de
 
 ## Streamlit com as visualizações de dados:
 
-https://user-images.githubusercontent.com/113948697/236079513-5c07e736-1f16-419c-9290-93fc21848955.mov
+https://user-images.githubusercontent.com/113948697/236079688-4d2f458c-ce1c-49ef-9752-500e7a3b395e.mov
 
