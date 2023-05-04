@@ -1,4 +1,4 @@
-# Previsao-Renda
+# Previsao de Renda
 
 Projeto desenvolvido utilizado pandas, com o objetivo de criar uma árvore de descisão que classifica a faixa de renda.
 
